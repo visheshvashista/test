@@ -1,6 +1,6 @@
 # Project: Data Warehouse with Redshift
 
-Udacity Data Engineering Nanodegree. Songs and User log data is to be loaded in to Dataware house ( Redshift) for processing. The data is loaded in to staging tables and then moved to dimension and fact tables.
+Udacity Data Engineering Nanodegree. Songs and User log data is to be loaded in to Datawarehouse (Redshift) for processing. The data is loaded in to staging tables and then moved to dimension and fact tables.
 
 
 ## Files
