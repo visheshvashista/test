@@ -6,12 +6,14 @@ Udacity Data Engineering Nanodegree. Songs and User log data is to be loaded in 
 ## Files
 
 1. ```create_table.py``` performs operations to create staging and dimensional tables
+''' a. test '''
 
 2. ```etl.py``` perform ETL process from staging tables, transform the data and load them into dimensional model tables.
 
 3. ```sql_queries.py``` contains SQL queries for creating tables and load the data.
 
 4. ```dwh.py``` contains the configuration for the project. It has details of the buckets from where data is to be loaded, Redshift Cluster to connect  and IAM role used.
+
 
 ## Database schema design
 
